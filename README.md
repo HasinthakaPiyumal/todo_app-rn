@@ -20,7 +20,7 @@ Follow these steps carefully to set up and run the project:
 1.  **Clone the repository**
 
     ```bash
-    git clone [<your-repo-link>](https://github.com/HasinthakaPiyumal/todo_app-rn)
+    git clone https://github.com/HasinthakaPiyumal/todo_app-rn
     cd todo_app-rn
 
     ```
