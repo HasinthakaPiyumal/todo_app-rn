@@ -81,7 +81,7 @@ Follow these steps carefully to set up and run the project:
 
 ## 🎥 Demo Video
 
-[👉 Watch Demo Video Here](https://hasinthaka.com)
+[👉 Watch Demo Video Here](https://youtube.com/shorts/H0tYz1cBAWM?feature=share)
 
 ---
 
