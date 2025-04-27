@@ -80,9 +80,6 @@ Follow these steps carefully to set up and run the project:
 ---
 
 
-https://github.com/user-attachments/assets/64c249e8-32ee-44f2-a200-45353201661a
-
-
 ## 🎥 Demo Video
 
 https://github.com/user-attachments/assets/00e3d9a6-a0c2-47d8-843d-58ac004cc43e
